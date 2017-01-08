@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'geezapro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//github.com/AnasGamal/araquotes/raw/tumblr/geezapro.eot);
+  src: url(//github.com/AnasGamal/araquotes/raw/tumblr/geezapro.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/AnasGamal/araquotes/raw/tumblr/geezapro.woff) format('woff'),
+       url(//github.com/AnasGamal/araquotes/raw/tumblr/geezapro.ttf) format('truetype');
+}
